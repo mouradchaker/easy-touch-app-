@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "dish1",
+    "image": "https://i.ibb.co/mtDFrzP/hrira-removebg-preview.png",
+    "title": "Hrira",
+    "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+    "availableSizes": ["Enfant", "Adult", "Duo", "Family"],
+    "price": 250
+  },
+  {
+    "_id": "dish2",
+    "image": "https://i.ibb.co/cvYhr69/tajin-removebg-preview.png",
+    "title": "Lham Hlaw",
+    "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+    "availableSizes": ["Enfant", "Adult", "Duo", "Family"],
+    "price": 300
+  },
+  {
+    "_id": "dish3",
+    "image": "https://i.ibb.co/G3ZJ38N/the-zitoun.png",
+    "title": "Tajin Zitoun",
+    "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+    "availableSizes": ["Enfant", "Adult", "Duo", "Family"],
+    "price": 300
+  },
+  {
+    "_id": "dish4",
+    "image": "https://uploads-ssl.webflow.com/5eef57db89bb1904bcc0af61/5f74a857e73e4a164d390aa4_AZIZA-HOME-MADE-COUS-COUS.png",
+    "title": "Cous Cous",
+    "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+    "availableSizes": ["Enfant", "Adult", "Duo", "Family"],
+    "price": 500
+  },
+  {
+    "_id": "dish5",
+    "image": "https://i.ibb.co/wwNMr4N/dish2.png",
+    "title": "Bourak",
+    "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+    "availableSizes": ["Enfant", "Adult", "Duo", "Family"],
+    "price": 100
+  },
+  {
+    "_id": "dish6",
+    "image": "https://i.ibb.co/nP78X3D/chorba-removebg-preview.png",
+    "title": "Chourba",
+    "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+    "availableSizes": ["Enfant", "Adult", "Duo", "Family"],
+    "price": 250
+  }
+]
